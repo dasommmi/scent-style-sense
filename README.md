@@ -133,5 +133,3 @@ $ python manage.py runserver
 - 30개 이상의 브랜드의 향수 리스트
 
 #### Styles
-
-* 
